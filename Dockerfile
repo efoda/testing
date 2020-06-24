@@ -4,7 +4,7 @@
 ##################################################################
 
 # Base image is python
-FROM python:latest
+FROM python:alpine
 
 # Author: Dr. Peter
 MAINTAINER Dr. Peter <peterindia@gmail.com>
